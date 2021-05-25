@@ -1,6 +1,8 @@
 <html>
 <body>
-  <p>Hello. Welcome. Testing 1, 2, 3.</p>
+  <p>Hello.</p>
   <img src="https://github.com/45lc/45lc.github.io/blob/main/tempo.jpg" alt="">
+  &nbsp;
+  <img src="https://github.com/45lc/45lc.github.io/blob/main/tempi.jpg" alt="">
 </body>
 </html>
