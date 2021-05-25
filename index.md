@@ -1,9 +1,6 @@
-<!doctype html>
 <html>
-<head>
-<meta charset="UTF-8">
-</head>
 <body>
-<h1>Hello World!</h1>
+  <p>Hello. Welcome. Testing 1, 2, 3.</p>
+  <img src="tempo.jpg" alt="">
 </body>
 </html>
